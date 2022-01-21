@@ -16,8 +16,6 @@
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Mina_Karam-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/Mina_Karam)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mina-Karam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minakaram.me)  
-
 <!-- Footer -->
 
 <div align="center">
