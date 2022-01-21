@@ -18,8 +18,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mina-Karam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/minakaram.me)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mina-Karam&show_icons=true)  
-
 <!-- Footer -->
 
 <div align="center">
